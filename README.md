@@ -11,12 +11,12 @@ This midterm group project examines Walmart sales patterns before hurricanes in 
 The goal is to provide data-driven recommendations to help Walmart prepare its inventory and distribution operations before severe weather events.
 
 ## Team Members
+Eyram — GitHub: @eyramg
 
 Shreya — GitHub: @shreyashan-git
 
 Smera — GitHub: @smerashanmugan
 
-Eyram — GitHub: @eyramg
 
 All team members will contribute to data analysis, Python programming, project documentation, and the final presentation.
 
