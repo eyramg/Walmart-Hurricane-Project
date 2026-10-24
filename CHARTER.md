@@ -3,7 +3,7 @@
 ## Members
 - Shreya (GitHub: shreyashan-git)
 - Smera (GitHub: smerashanmugan)
-- Eyrum (GitHub: eyrumg)
+- Eyram (GitHub: eyramg)
 
 ## Goals
 - **good result:** We want to clean the data correctly, answer all five questions, and make a clear final presentation.
@@ -16,18 +16,18 @@
 | Role | Owner | Backup |
 |---|---|---|
 | cleaning + decision log | Shreya | Smera |
-| weather API + join | Smera | Eyrum |
-| analysis Q1-Q5 | Eyrum | Shreya |
-| charts + presentation | Shreya | Eyrum |
+| weather API + join | Smera | Eyram |
+| analysis Q1-Q5 | Eyram | Shreya |
+| charts + presentation | Shreya | Eyram |
 
 ## Question owners
 
 | Question | Owner | Reviewer |
 |---|---|---|
 | Q1 demand surge | Shreya | Smera |
-| Q2 SKU consolidation | Smera | Eyrum |
-| Q3 weather correlation | Eyrum | Shreya |
-| Q4 stores and geography | Shreya | Eyrum |
+| Q2 SKU consolidation | Smera | Eyram |
+| Q3 weather correlation | Eyram | Shreya |
+| Q4 stores and geography | Shreya | Eyram |
 | Q5 signal or artifact | Smera | Shreya |
 
 ## How we work
